@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/leap-financial/docker-meta-action/compare/v1.0.0...v1.0.1) (2022-12-02)
+
+
+### Bug Fixes
+
+* update dependencies ([#5](https://github.com/leap-financial/docker-meta-action/issues/5)) ([63ba6a1](https://github.com/leap-financial/docker-meta-action/commit/63ba6a10c92ab01c4b736eb9c9690fb2f8ff06a3))
+
 ## 1.0.0 (2022-12-02)
 
 
